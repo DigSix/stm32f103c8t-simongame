@@ -1,0 +1,7 @@
+/home/digsix/Projects/STM32CubeIDE/workspace/trabalho-final/Core/Src/main.c:105:5:obterIndiceDoBotaoPorPino	16	static
+/home/digsix/Projects/STM32CubeIDE/workspace/trabalho-final/Core/Src/main.c:117:6:HAL_GPIO_EXTI_Callback	24	static
+/home/digsix/Projects/STM32CubeIDE/workspace/trabalho-final/Core/Src/main.c:127:6:processarBotao	24	static
+/home/digsix/Projects/STM32CubeIDE/workspace/trabalho-final/Core/Src/main.c:184:5:main	8	static
+/home/digsix/Projects/STM32CubeIDE/workspace/trabalho-final/Core/Src/main.c:231:6:SystemClock_Config	72	static
+/home/digsix/Projects/STM32CubeIDE/workspace/trabalho-final/Core/Src/main.c:271:13:MX_GPIO_Init	40	static
+/home/digsix/Projects/STM32CubeIDE/workspace/trabalho-final/Core/Src/main.c:343:6:Error_Handler	4	static

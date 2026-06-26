@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/digsix/Projects/STM32CubeIDE/workspace/trabalho-final/build/Debug/cmake_install.cmake",
+		"/home/digsix/Projects/STM32CubeIDE/workspace/trabalho-final/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
